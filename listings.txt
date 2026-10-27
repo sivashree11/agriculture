@@ -1,0 +1,6 @@
+101|Rice Husk|Husk & Shell|5000|3.5|Punjab|Dry & Clean|Sardar Gurpreet Singh|9876501234
+102|Sugarcane Bagasse|Bagasse & Fibre|8500|2.8|Maharashtra|Semi-Dry (Baled)|Ramesh Patil|9823012345
+103|Coconut Husk|Husk & Shell|4200|4.2|Kerala|Dry & Baled|K. V. Narayanan|9447012345
+104|Groundnut Shells|Husk & Shell|3000|3|Gujarat|Crushed & Dry|Bhavesh Patel|9898012345
+105|Banana Pseudo-stem Fibre|Bagasse & Fibre|1800|15|Tamil Nadu|Extracted Raw Fibre|M. Murugan|9789012345
+106|Wheat Straw|Straw & Stalks|6000|2.2|Haryana|Baled & Dry|Baljeet Sharma|9812012345
